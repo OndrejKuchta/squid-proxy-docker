@@ -1,5 +1,5 @@
 # Squid proxy docker
-Simple Squid configuration as forward proxy with Dockerfile.
+Because sometimes you need to spin up very simple forward proxy. This is how to do it in 2 minutes.
 
 1. Build your docker image
 ``` docker build -t ubuntu/squid . ```
